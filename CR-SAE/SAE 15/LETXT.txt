@@ -1,0 +1,9 @@
+
+
+
+Pour calculer l'écart-type, on procède ainsi :
+1 - On calcule la moyenne arithmétique de la série.
+2 - On calcule le carré de l'écart à la moyenne de chacune des valeurs de la série.
+3 - On calcule la somme des valeurs obtenues.
+4 - On divise par l'effectif de la série.
+5 - On calcule la racine carrée du résultat.
